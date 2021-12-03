@@ -38,7 +38,7 @@ if ( ! function_exists( 'escw_trigger_custom_event' ) ) {
 	function escw_trigger_custom_event() {
 
 		$user_data = array(
-			'email'      => 'kishan.ranawat+123@icegram.com',
+			'email'      => 'kishan.ranawat@icegram.com',
 			'first_name' => 'Kishan',
 			'last_name'  => 'Ranawat',
 		);
